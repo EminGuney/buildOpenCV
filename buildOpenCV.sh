@@ -3,8 +3,8 @@
 # Copyright(c) JetsonHacks (2017-2019)
 
 OPENCV_VERSION=4.1.1
-# Jetson Nano
-ARCH_BIN=5.3
+# Jetson Nx
+ARCH_BIN=7.7
 INSTALL_DIR=/usr/local
 # Download the opencv_extras repository
 # If you are installing the opencv testdata, ie
